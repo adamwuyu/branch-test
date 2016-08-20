@@ -1,10 +1,12 @@
 #Git Branch测试
 
-Branch Master的修改：
+Master的修改：
 
-修改1
+修改1 
 
 
-Branch hotfix的修改
+Branch issue的修改:
 
-修改3
+修改2
+
+修改4
